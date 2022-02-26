@@ -1,0 +1,1 @@
+New-Service -Name "DHCP-AME" -BinaryPathName "AmeDhcpServer.exe" -Credential "NT Service\DHCP-AME" -Description "Server DHCP" -DisplayName "DHCP-AME" -StartupType Automatic
