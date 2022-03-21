@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmeDhcpServer", "AmeDhcpServer\AmeDhcpServer.csproj", "{E9A7A772-FB0B-415B-BD7A-B9A74D08ACD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmeServer", "AmeServer\AmeServer.csproj", "{E9A7A772-FB0B-415B-BD7A-B9A74D08ACD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmeTests", "AmeTests\AmeTests.csproj", "{6236739D-E50B-49ED-8515-46A444606BE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{E9A7A772-FB0B-415B-BD7A-B9A74D08ACD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9A7A772-FB0B-415B-BD7A-B9A74D08ACD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9A7A772-FB0B-415B-BD7A-B9A74D08ACD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6236739D-E50B-49ED-8515-46A444606BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6236739D-E50B-49ED-8515-46A444606BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6236739D-E50B-49ED-8515-46A444606BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6236739D-E50B-49ED-8515-46A444606BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
